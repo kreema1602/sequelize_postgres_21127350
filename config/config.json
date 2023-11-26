@@ -1,0 +1,41 @@
+{
+  "development": {
+    "username": "trangiathinh",
+    "password": "Ecjvdugkk3HhVihTMUqp58OlvBMRW0kr",
+    "database": "tuan8db_nu61",
+    "host": "dpg-clfbb9mg1b2c73a00fvg-a.singapore-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "test": {
+    "username": "trangiathinh",
+    "password": "Ecjvdugkk3HhVihTMUqp58OlvBMRW0kr",
+    "database": "tuan8db_nu61",
+    "host": "dpg-clfbb9mg1b2c73a00fvg-a.singapore-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "production": {
+    "username": "trangiathinh",
+    "password": "Ecjvdugkk3HhVihTMUqp58OlvBMRW0kr",
+    "database": "tuan8db_nu61",
+    "host": "dpg-clfbb9mg1b2c73a00fvg-a.singapore-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
